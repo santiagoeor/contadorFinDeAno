@@ -65,4 +65,4 @@ const cuentaRegresiva = (deadline: string | Date) => {
 }
 
 
-cuentaRegresiva('Nov 30 2024 19:49:00 GMT-0500');
+cuentaRegresiva('Jan 01 2025 00:00:00 GMT-0500');
