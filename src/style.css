@@ -1,0 +1,24 @@
+.header {
+  background-color: aqua;
+}
+
+.cuenta-regresiva {
+  font-size: 20px;
+  color: black;
+}
+
+.carousel-item img {
+  height: 450px;
+  /* Ajusta la altura */
+  object-fit: contain;
+  /* Para que las imágenes mantengan proporción */
+}
+
+.carousel-indicators button {
+  background-color: black;
+}
+
+.segundos {
+  text-align: center;
+  font-size: 300px;
+}
